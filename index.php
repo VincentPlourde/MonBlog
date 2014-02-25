@@ -1,4 +1,5 @@
 <!doctype html>
+<!--Site web blog isi2 -->
 <html lang="fr">
     <head>
         <meta charset="UTF-8" />
